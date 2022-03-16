@@ -5,4 +5,3 @@ A parte de Media Queries o curso ainda não ensinou mas foi fácil de fazerjá q
 
 <a href="https://anariquieri.github.io/Cordel/">Ver resultado</a>
 
-[As imagens por algum motivo não estão carregando... no repositório local elas funcionaram normalmente......]
